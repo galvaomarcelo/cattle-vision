@@ -14,12 +14,10 @@ Cattle-Vision detects individual cattle in high-resolution drone imagery using a
 
 The project starts simple — one class, one task — and grows from there. Later stages will distinguish calves and bulls, estimate cattle locations, and integrate detections with geographic information.
 
----
 
-## 🖼️ Result
 
 <p align="center">
-  <img src="assets/detection3.png" alt="Cattle detection on drone imagery" width="720"/>
+  <img src="assets/detection3.jpg" alt="Cattle detection on drone imagery" width="500"/>
 </p>
 
 ---
